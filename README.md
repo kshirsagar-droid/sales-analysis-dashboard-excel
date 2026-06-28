@@ -28,7 +28,7 @@ design skills.
 - Daily sales trend shows high volatility, with sharp dips around day 7, 14, and 22–24
 
 ## Dashboard Preview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](dashboard_review.png)
 
 ## Author
 Om Kshirsagar
