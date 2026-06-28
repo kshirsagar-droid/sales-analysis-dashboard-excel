@@ -25,10 +25,19 @@ design skills.
 ## Key Insights
 - Central region leads with 41% share of total regional sales, followed by Southern (29%) and North (25%)
 - Sopper and Tuc are the top-performing brands, far ahead of the rest
-- Daily sales trend shows high volatility, with sharp dips around day 7, 14, and 22–24
+- Daily sales trend shows high volatility, with sharp dips around day 7, 14, and 22-24
 
 ## Dashboard Preview
 ![Dashboard Overview](dashboard_review.png)
+
+## File Structure
+- `Sales_Analysis_Dashboard.xlsx` - main interactive dashboard
+- `dashboard_review.png` - preview screenshot of the dashboard
+
+## How to Use
+1. Download the `.xlsx` file
+2. Open in Excel (Desktop recommended for slicer interactivity)
+3. Use the Region, Territory, and Brand slicers to filter the view
 
 ## Author
 Om Kshirsagar
